@@ -4,8 +4,9 @@ body{
     background-color: rgba(235, 131, 217, 0.411);
     width: 1200px;
 }
-.heading-color{
+.short-color{
     color: brown;
+    font-weight: 700px;
 }
 .heading-size{
     font-weight: 700px;
@@ -54,4 +55,12 @@ body{
     background-repeat: no-repeat;
     background-position:left;
     margin-left: 20px;
+}
+footer{
+    background-color: rgb(144, 59, 223);
+    height: 150px;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
 }
