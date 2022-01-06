@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     background-color: rgba(235, 131, 217, 0.411);
+    width: 1200px;
 }
 .heading-color{
     color: brown;
@@ -39,6 +40,18 @@ body{
     width: 200px;
     height: 200px;
 }
+.main-img-size{
+    width: 500px;
+    height: 500px;
+}
 .mission-heading{
     text-align: center;
+    font-weight: 700px;
+    font-size: 60px;
+}
+.banner{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    margin-left: 20px;
 }
