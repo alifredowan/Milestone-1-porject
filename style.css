@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-color: rgba(235, 131, 217, 0.411);
+    background-color: #fcddf0;
     width: 1200px;
 }
 .short-color{
@@ -57,33 +57,27 @@ body{
     margin-left: 20px;
 }
 .form-style{
-    background-color: rgba(235, 131, 217, 0.411);
+    background-color: #feadde;
     margin-left: 35%;
-    box-shadow: 10px 10px 40px rgb(253, 77, 46);
     border-radius: 10px;
     padding: 30px;
     margin-bottom: 22px;
 }
 .input-style{
-    background-image: linear-gradient(rgb(138, 8, 51), rgb(139, 17, 187));
+    background-color: black;
     width: 250px;
     padding: 13px;
     border-radius: 10px;
     margin-top: 5px;
+    color:blanchedalmond;
 }
 .design-bt{
     margin-left: 70px;
 }
-.log-in-panel{
-    background-color: rgb(31, 2, 59);
-    box-shadow: 10px 10px 40px rgb(253, 77, 46);
-    width: 100%;
-    height: 100%;
-}
 .log-in-panel h1{
     text-align: center;
     background-color: black;
-    color: rgb(238, 197, 136);
+    color: cornsilk;
     border-radius: 10px;
     padding: 10px;
     width: 50%;
@@ -91,10 +85,11 @@ body{
     box-shadow: 10px 10px 40px rgb(235, 183, 107);
 }
 footer{
-    background-color: rgb(144, 59, 223);
+    background-color: black;
     height: 150px;
     text-align: center;
     padding: 5px;
     font-weight: bold;
     font-size: 20px;
+    color: blanchedalmond;
 }
