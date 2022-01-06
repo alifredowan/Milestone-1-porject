@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: rgba(235, 131, 217, 0.411);
+}
+.heading-color{
+    color: brown;
+}
+.heading-size{
+    font-weight: 700px;
+    font-size: 60px;
+    border-left: rgb(131, 5, 5) 5px solid;
+}
+.container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half{
+    width: 50%;
+    padding-left: 9%;
+}
+.about-btn{
+    text-decoration:none ;
+    padding: 12px;
+    background-image: linear-gradient(rgb(128, 19, 37), rgb(231, 8, 45));
+    color: wheat;
+    font-weight: 700px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.web-shadow{
+    width: 20%;
+    margin-left: 8%;
+    padding: 7px;
+    box-shadow:10px 10px 40px tomato;
+    border-radius: 10px;
+}
+.illustrator-img-size{
+    width: 200px;
+    height: 200px;
+}
+.mission-heading{
+    text-align: center;
+}
